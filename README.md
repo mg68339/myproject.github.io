@@ -1,1 +1,1 @@
-# myproject.github.io
+# myrcipe.github.io
